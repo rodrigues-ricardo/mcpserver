@@ -1,0 +1,62 @@
+{
+  "devices": [
+    {
+      "name": "RT-CORE01",
+      "vendor": "Cisco",
+      "host": "192.168.1.167",
+      "interfaces": [
+        {
+          "name": "FastEthernet0/0",
+          "status": "down",
+          "ip_address": "",
+          "subnet_mask": ""
+        },
+        {
+          "name": "Ethernet1/0",
+          "status": "up"
+        },
+        {
+          "name": "Ethernet1/1",
+          "status": "down"
+        },
+        {
+          "name": "Ethernet1/2",
+          "status": "down"
+        },
+        {
+          "name": "Ethernet1/3",
+          "status": "down"
+        }
+      ]
+    },
+    {
+      "name": "RT-DIST01",
+      "vendor": "Cisco",
+      "host": "192.168.1.154",
+      "interfaces": [
+        {
+          "name": "FastEthernet0/0",
+          "status": "down",
+          "ip_address": "",
+          "subnet_mask": ""
+        },
+        {
+          "name": "Ethernet1/0",
+          "status": "up"
+        },
+        {
+          "name": "Ethernet1/1",
+          "status": "down"
+        },
+        {
+          "name": "Ethernet1/2",
+          "status": "down"
+        },
+        {
+          "name": "Ethernet1/3",
+          "status": "down"
+        }
+      ]
+    }
+  ]
+}

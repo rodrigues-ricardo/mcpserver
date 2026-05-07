@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "router-manager": {
+      "command": "python",
+      "args": ["/caminho/para/mcp-cisco-server/server.py "]
+    }
+  }
+}
